@@ -280,28 +280,4 @@ PrometheusAlert 具备如下特性：
 * [【如何对PrometheusAlert进行二次开发】](https://github.com/feiyu563/PrometheusAlert/wiki/%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E3%80%90PrometheusAlert%E3%80%91%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91)
 * [通用自定义模板共享链接](https://github.com/feiyu563/PrometheusAlert/issues/30)
 * [Prometheus rules共享链接](https://github.com/feiyu563/PrometheusAlert/issues/89)
-* [【如何捐赠】](doc/readme/donate.md)
 
---------------------------------------
-
-项目源码
-
---------------------------------------
-
- - [【GitHub】: PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)
- - [【码云】: PrometheusAlert](https://gitee.com/feiyu563/PrometheusAlert)
-
---------------------------------------
-
-加入PrometheusAlert微信交流群
-
---------------------------------------
-
-
-![me](doc/images/wx.png)
-
----
-
-Email: 244217140@qq.com
-
-----
